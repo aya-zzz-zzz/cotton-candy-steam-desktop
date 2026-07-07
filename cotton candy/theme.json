@@ -13,6 +13,15 @@
     "desktoppopup.css": [
       "desktoppopup"
     ],
+    "desktopcontextmenu.css": [
+      "desktopcontextmenu"
+    ],
+    "bigpicture.css": [
+      "bigpicture"
+    ],
+    "bigpictureoverlay.css": [
+      "bigpictureoverlay"
+    ],
     "store.css": [
       "store"
     ]
